@@ -28,4 +28,4 @@ word_items = list(word_dict.items())
 word_items.sort(key=lambda x: x[1], reverse=True)
 print('사용 빈도가 높은 단어 Top10')
 for word, count in word_items[:10]:
-    print(f'\t{word}:\t{count:2d}')
+    print(f'\t{word}:\t{count:02d}')
