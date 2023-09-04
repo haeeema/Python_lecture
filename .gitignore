@@ -3,6 +3,7 @@ password.txt
 test.py
 test.ipynb
 .vscode
+.conda
 
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
